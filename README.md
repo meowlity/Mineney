@@ -1,7 +1,8 @@
 # Hello! I'm Warm, Welcome to my Github profile.👋
->🌱 I’m currently learning to Programing
 
 <img align="right" width="500px" height="300px" src="https://media.tenor.com/lTtlX5xlfmgAAAAC/nyan-cat.gif"></img>
+
+>🌱 I’m currently learning to Programing
 
 ## 💬 Contact
 > - [Facebook](https://www.facebook.com/wawarmm/)<br>

@@ -2,8 +2,8 @@
   🌱 I’m currently learning to Programing
 
 ## 💬 Contact
-👉 [Facebook](https://www.facebook.com/wawarmm/)<br>
-👉 [Instragram](https://www.instagram.com/wawarmm/)<br>
+>👉 [Facebook](https://www.facebook.com/wawarmm/)<br>
+>👉 [Instragram](https://www.instagram.com/wawarmm/)<br>
 
 
 

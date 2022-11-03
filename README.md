@@ -1,8 +1,8 @@
 # Hi I'm Warm, Welcome to my Github Profile.👋
 
 # Contact
-> [Facebook](https://www.facebook.com/wawarmm/)
-> [Instragram](https://www.instagram.com/wawarmm/)
+> [Facebook](https://www.facebook.com/wawarmm/)<br>
+> [Instragram](https://www.instagram.com/wawarmm/)<br>
 
 <!--
 **Mineney/Mineney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

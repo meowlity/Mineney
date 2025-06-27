@@ -9,8 +9,8 @@
 > - [Instragram](https://www.instagram.com/)<br>
 
 ## ✨ Interesting
-> - Java Script Language <br>
-> - <br>
+> - Java Script<br>
+> - Python<br>
 
 
 
